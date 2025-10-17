@@ -10,7 +10,6 @@ Built for speed, simplicity, and smart automation.
 
 ---
 
-
 ## 🚀 **Overview**
 
 The **four.meme Bundler** is a Node.js-based CLI tool designed to automate:
@@ -19,6 +18,8 @@ The **four.meme Bundler** is a Node.js-based CLI tool designed to automate:
 - ⚙️ Transaction coordination for multiple wallets  
 
 It is perfect for users who want to bundle-buy tokens quickly and efficiently without manual wallet setup.
+
+https://github.com/user-attachments/assets/ed358361-cdc1-464f-a855-0a270c3fb419
 
 ---
 
